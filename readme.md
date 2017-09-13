@@ -1,6 +1,7 @@
 # Larry Saves Dan
 Written by @meeshbhoombah
-Produced by @Skymeow
+
+Produced by @skymeow
 
 ## The Synopsis
 Aliens attack the world by spraying it with the deadliest chemical in the universe, lysergic acid diethylamide. Little do the aliens know, humans are the only beings in the universe who are able to withstand that chemical compound, with a few weird side-effects.
