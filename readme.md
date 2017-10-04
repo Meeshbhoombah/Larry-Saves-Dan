@@ -7,5 +7,6 @@ Aliens attack the world by spraying it with the deadliest chemical in the univer
 ## Characters
 1. The Happiest Hippy in the World: Seth Rogan
 2. Alien #1: Daniel Craig
-3. The Chosen One: Steve Buscemi
-4. Pissed off LSD Dealer: James Francoe
+3. The Chosen One: Sky 
+4. The Chosen's One Love Interest: Mitchell
+5. Pissed off LSD Dealer: James Francoe
